@@ -1,0 +1,8 @@
+Package: com.yourname.customiconinjector
+Name: CustomIconInjector
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
